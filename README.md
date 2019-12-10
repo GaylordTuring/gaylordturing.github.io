@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Välkommen till podcasten Psykologivetarhälsopoddarna
+
+Här är en lista med avnitt av poddar som vi gjort:
+
+{% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 You can use the [editor on GitHub](https://github.com/GaylordTuring/gaylordturing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
