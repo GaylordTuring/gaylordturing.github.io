@@ -3,7 +3,7 @@ layout: post
 title: Framtidsavsnittet
 ---
 
-# {{ post.title }} ({{ page.date | date: "%Y-%m-%d" }})
+# {{ post.title }} ({{ post.date | date: "%Y-%m-%d" }})
 
 Hej! Lyssna på vårt andra avsnitt här. Det är lite speciellt för vi har i detta lyckats resa genom tiden och gjort ett avsnitt från just framtiden.
 
