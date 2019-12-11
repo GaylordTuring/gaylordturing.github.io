@@ -3,7 +3,7 @@ layout: post
 title: Reproducibilitea 1
 ---
 
-# {{ post.title }} ({{ post.date | date: "%Y-%m-%d" }})
+# {{ page.title }} ({{ page.date | date: "%Y-%m-%d" }})
 
 Hej! Lyssna på vårt första avsnitt här!
 
