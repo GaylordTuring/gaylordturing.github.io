@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Framtidsavsnittet
+title: "#2 Framtidsavsnittet"
 ---
 
 # {{ page.title }} ({{ page.date | date: "%Y-%m-%d" }})
