@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Framtidsavsnittet"
+title: Framtidsavsnittet
 ---
 
-# Framtidsavsnittet
+# {{ post.title }} ({{ page.date | date: "%Y-%m-%d" }})
 
 Hej! Lyssna på vårt andra avsnitt här. Det är lite speciellt för vi har i detta lyckats resa genom tiden och gjort ett avsnitt från just framtiden.
 
