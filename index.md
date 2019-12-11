@@ -1,4 +1,10 @@
-## Välkommen till podcasten Psykologivetarhälsopoddarna
+---
+title: Start
+nav: Start
+layout: default
+meta: Some info about Mentalt kombinat
+changefreq: monthly
+---
 
 Här är en lista med avnitt av poddar som vi gjort:
 
