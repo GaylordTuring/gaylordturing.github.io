@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reproducibilitea 1
+title: #1 Reproducibilitea 1
 ---
 
 # {{ page.title }} ({{ page.date | date: "%Y-%m-%d" }})
