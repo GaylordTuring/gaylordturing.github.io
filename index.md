@@ -6,7 +6,11 @@ meta: Some info about Mentalt kombinat
 changefreq: monthly
 ---
 
-Här är en lista med avnitt av poddar som vi gjort:
+# Mentalt kombinat
+
+Mentalt kombinat är en podcast som görs av Robin Fondberg och Martin Asperholm, båda vid Avdelningen för psykologi på Karolinska institutet.
+
+Här är en lista med de poddar som vi har gjort hittills:
 
 <ul>
   {% for post in site.posts %}
@@ -15,5 +19,3 @@ Här är en lista med avnitt av poddar som vi gjort:
     </li>
   {% endfor %}
 </ul>
-
-Lyssna på allihopa, tack!
