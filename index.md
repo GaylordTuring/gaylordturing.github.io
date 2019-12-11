@@ -1,5 +1,5 @@
 ---
-title: Start
+title:
 nav: Start
 layout: default
 meta: Some info about Mentalt kombinat
