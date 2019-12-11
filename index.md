@@ -15,7 +15,7 @@ Här är en lista med de poddar som vi har gjort hittills:
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%Y-%m-%d" }})</a>
+      <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }}: {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
