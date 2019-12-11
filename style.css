@@ -17,12 +17,12 @@ body
 
 a
 {
-	color: red;
+	color: blue;
 }
 
 a:hover
 {
-	color: red;
+	color: blue;
 }
 
 /************
